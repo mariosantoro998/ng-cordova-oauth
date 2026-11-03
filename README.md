@@ -12,7 +12,7 @@ If you are using Angular 2, you should check out [ng2-cordova-oauth](https://git
 
 If you found this project useful, please consider donating some Bitcoin to the following address:
 
-[1M8SKTepmgA2KAUSZc7LpXN1owaky1DjNM](bitcoin:1M8SKTepmgA2KAUSZc7LpXN1owaky1DjNM?amount=0.008)
+[bc1qujzg4h8lsdhwh5c0he4dahz9pfl6afrjrka47n](bitcoin:bc1qujzg4h8lsdhwh5c0he4dahz9pfl6afrjrka47n?amount=0.008)
 
 
 ## Requirements
